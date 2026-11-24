@@ -1,4 +1,4 @@
-# AquaSense: Machine Learning-Based Water Potability Assessment
+# AquaSense: Machine Learning-Based Water Potability Assessment System
 
 **Author:** Odoi Stephen  
 **Course:** MSC 7103 Machine Learning Practical Exam, Makerere University  
